@@ -75,6 +75,7 @@ Venture-funded companies
  - [Lineaje](https://www.lineaje.dev/) | [LinkedIn](https://www.linkedin.com/company/lineaje/) | [Crunchbase](https://www.crunchbase.com/organization/lineaje)
  - [Matano](https://matanosecurity.com/) | [LinkedIn](https://www.linkedin.com/company/matanolabs/) | [Crunchbase](https://www.crunchbase.com/organization/matano)
  - [Metomic](https://metomic.io) | [LinkedIn](https://www.linkedin.com/company/metomic/) | [Crunchbase](https://www.crunchbase.com/organization/metomic)
+ - [Mondoo](https://mondoo.com) | [LinkedIn](https://www.linkedin.com/company/mondoo/) | [Crunchbase](https://www.crunchbase.com/organization/mondoo)
  - [Netwrix](https://www.netwrix.com/) | [LinkedIn](https://www.linkedin.com/company/netwrix-corporation/) | [Crunchbase](https://www.crunchbase.com/organization/netwrix)
  - [Normalyze](https://normalyze.ai/) | [LinkedIn](https://www.linkedin.com/company/normalyze/) | [Crunchbase](https://www.crunchbase.com/organization/normalyze)
  - [Noq](https://www.noq.dev) | [LinkedIn](https://www.linkedin.com/company/noq-software/) | [Crunchbase](https://www.crunchbase.com/organization/noq-software)
